@@ -34,7 +34,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/0B5lW29.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- You must enable remote desktop before you can have the abilty to connect with and/or use a faraway desktop computer with a second computer.
+ You must enable remote desktop before you can have the ability to connect with and/or use a faraway desktop computer with a second computer.
 </p>
 <br />
 
