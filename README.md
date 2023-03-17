@@ -35,7 +35,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
  You must enable remote desktop before you can have the abilty to connect with and/or use a faraway desktop computer with a second computer.
- In this project, There are 4 virtual machines set up, Two VMs are being ran as a domain controller and a client Vm for Active Directory set up and use.
 </p>
 <br />
 
@@ -44,6 +43,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 Virtual machines are compute resources that allow use of software and remote access without the need of having to have an actual physical computer present.
+In this project, There are 4 virtual machines set up, Two VMs are being ran as a domain controller and a client Vm for Active Directory set up and use.
 </p>
 <br />
 
